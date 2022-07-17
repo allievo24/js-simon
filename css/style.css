@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    background-color: palevioletred;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+#numeri{
+    margin: 2rem auto;
+    font-size: 2rem;
+    color: aliceblue;
+    background-color: blue;
+    width: 50%;  
+}
+
+.barra{
+    width: 30%;
+    height: 20px;  
+    margin: 1rem auto;
+    background-color: blue;
+}
+.hide{
+    display: none;
+}
